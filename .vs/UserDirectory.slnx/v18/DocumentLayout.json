@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBE4DC9-1C07-AE4A-E36C-753F9BD8F752}|UserDirectory.Tests\\UserDirectory.Tests.csproj|c:\\users\\suneel\\source\\repos\\userdirectory\\userdirectory.tests\\\uD83D\uDD39 userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBE4DC9-1C07-AE4A-E36C-753F9BD8F752}|UserDirectory.Tests\\UserDirectory.Tests.csproj|solutionrelative:userdirectory.tests\\\uD83D\uDD39 userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBE4DC9-1C07-AE4A-E36C-753F9BD8F752}|UserDirectory.Tests\\UserDirectory.Tests.csproj|c:\\users\\suneel\\source\\repos\\userdirectory\\userdirectory.tests\\uservalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBE4DC9-1C07-AE4A-E36C-753F9BD8F752}|UserDirectory.Tests\\UserDirectory.Tests.csproj|solutionrelative:userdirectory.tests\\uservalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBE4DC9-1C07-AE4A-E36C-753F9BD8F752}|UserDirectory.Tests\\UserDirectory.Tests.csproj|c:\\users\\suneel\\source\\repos\\userdirectory\\userdirectory.tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBE4DC9-1C07-AE4A-E36C-753F9BD8F752}|UserDirectory.Tests\\UserDirectory.Tests.csproj|solutionrelative:userdirectory.tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0441EA-A048-2625-935A-CA5F60F5C12C}|UserDirectory\\UserDirectory.csproj|c:\\users\\suneel\\source\\repos\\userdirectory\\userdirectory\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0441EA-A048-2625-935A-CA5F60F5C12C}|UserDirectory\\UserDirectory.csproj|solutionrelative:userdirectory\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0441EA-A048-2625-935A-CA5F60F5C12C}|UserDirectory\\UserDirectory.csproj|c:\\users\\suneel\\source\\repos\\userdirectory\\userdirectory\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0441EA-A048-2625-935A-CA5F60F5C12C}|UserDirectory\\UserDirectory.csproj|solutionrelative:userdirectory\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0441EA-A048-2625-935A-CA5F60F5C12C}|UserDirectory\\UserDirectory.csproj|c:\\users\\suneel\\source\\repos\\userdirectory\\userdirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0441EA-A048-2625-935A-CA5F60F5C12C}|UserDirectory\\UserDirectory.csproj|solutionrelative:userdirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\obj\\Debug\\net8.0\\UserDirectory.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserDirectory\\obj\\Debug\\net8.0\\UserDirectory.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserDirectory\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0441EA-A048-2625-935A-CA5F60F5C12C}|UserDirectory\\UserDirectory.csproj|c:\\users\\suneel\\source\\repos\\userdirectory\\userdirectory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0441EA-A048-2625-935A-CA5F60F5C12C}|UserDirectory\\UserDirectory.csproj|solutionrelative:userdirectory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserDirectory\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserDirectory\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:39:51.846Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory.Tests\\TestBase.cs",
+              "RelativeDocumentMoniker": "UserDirectory.Tests\\TestBase.cs",
+              "ToolTip": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory.Tests\\TestBase.cs",
+              "RelativeToolTip": "UserDirectory.Tests\\TestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:12:56.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory.Tests\\UserValidationTests.cs",
+              "RelativeDocumentMoniker": "UserDirectory.Tests\\UserValidationTests.cs",
+              "ToolTip": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory.Tests\\UserValidationTests.cs",
+              "RelativeToolTip": "UserDirectory.Tests\\UserValidationTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:09:13.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uD83D\uDD39 UsersControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory.Tests\\\uD83D\uDD39 UsersControllerTests.cs",
+              "RelativeDocumentMoniker": "UserDirectory.Tests\\\uD83D\uDD39 UsersControllerTests.cs",
+              "ToolTip": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory.Tests\\\uD83D\uDD39 UsersControllerTests.cs",
+              "RelativeToolTip": "UserDirectory.Tests\\\uD83D\uDD39 UsersControllerTests.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:50:46.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "UserDirectory\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "UserDirectory\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:14:49.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserDirectory\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\Models\\User.cs",
+              "RelativeToolTip": "UserDirectory\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:32:24.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UserDirectory\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UserDirectory\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:28:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\Program.cs",
+              "RelativeDocumentMoniker": "UserDirectory\\Program.cs",
+              "ToolTip": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\Program.cs",
+              "RelativeToolTip": "UserDirectory\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:20:44.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDirectory.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\obj\\Debug\\net8.0\\UserDirectory.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UserDirectory\\obj\\Debug\\net8.0\\UserDirectory.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\SUNEEL\\source\\repos\\UserDirectory\\UserDirectory\\obj\\Debug\\net8.0\\UserDirectory.AssemblyInfo.cs",
+              "RelativeToolTip": "UserDirectory\\obj\\Debug\\net8.0\\UserDirectory.AssemblyInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:14:51.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

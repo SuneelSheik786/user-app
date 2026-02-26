@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  backend:
+    build: ./UserApi
+    ports:
+      - "7114:80"
+    volumes:
+      - ./data:/app/data
+  frontend:
+    build: ./user-app
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
